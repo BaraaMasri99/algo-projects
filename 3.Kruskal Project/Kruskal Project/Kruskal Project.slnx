@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kruskal Project/Kruskal Project.vcxproj" Id="ffe3094f-7102-4097-800a-535aa0461c14" />
+</Solution>

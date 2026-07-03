@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AlgoProject/AlgoProject.vcxproj" Id="9211ecfe-dcb3-4ab9-b03b-20f739190e5a" />
+</Solution>
